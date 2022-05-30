@@ -29,7 +29,7 @@
     <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
 </p>
 
-### Software
+### Software & Other Tools
 <p>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=black&color=black&labelColor=white"></a>
   <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&color=black&labelColor=orange"></a>
