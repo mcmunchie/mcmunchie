@@ -39,6 +39,10 @@
     <a href="#"><img alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </p>
 
+<p align="center">
+  <a href="#"><img alt="Cameron's Streak"src="http://github-readme-streak-stats.herokuapp.com?user=mcmunchie&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%"/></a> 
+  <a href="#"><img alt="Cameron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmunchie&show_icons=true&theme=material-palenight&hide_border=true" width="49%"/></a>
+</p>
 
 <!--
 **mcmunchie/mcmunchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
