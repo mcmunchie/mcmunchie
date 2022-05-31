@@ -39,8 +39,14 @@
     <a href="#"><img alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </p>
 
+### How to Reach Me
+<p>
+    <a href="https://discord.com/channels/938302966522339358/938302966522339361" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://open.spotify.com/user/42xt9i0cazcs8ktvm38ezmxkp?si=783f514d741e405f" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</p>
+    
 <p align="center">
-  <a href="#"><img alt="Cameron's Streak"src="http://github-readme-streak-stats.herokuapp.com?user=mcmunchie&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%"/></a> 
+  <a href="https://discord.com/channels/938302966522339358/938302966522339361"><img alt="Cameron's Streak"src="http://github-readme-streak-stats.herokuapp.com?user=mcmunchie&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%"/></a> 
   <a href="#"><img alt="Cameron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmunchie&show_icons=true&theme=material-palenight&hide_border=true" width="49%"/></a>
 </p>
 
